@@ -1,2 +1,2 @@
-time,price,text,color,lifetime
-1706908800000,6880,"Spoof Pull @ VWAP","#FF0000",600000
+price,text,color,lifetime
+6880,"Spoof Pull @ VWAP","#FF0000",600000
