@@ -1,2 +1,2 @@
-symbol,price,text,color,lifetime
-ESZ5.CME@BMD,6880,"Spoof Pull @ VWAP","#FF0000",683275
+symbol,price,text,color
+ESZ5.CME@BMD,6832.75,"Spoof Pull @ VWAP","#FF0000"
