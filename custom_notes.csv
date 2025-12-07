@@ -1,4 +1,3 @@
-"#automap","","","","","","",""
-"Symbol","Price Level","Note","Foreground Color","Background Color","Text Alignment","DIAMETER","DRAW_NOTE_PRICE_HORIZONTAL_LINE"
-"ESZ5","6876","Sell","#ffffff","#FF0000","left","2","true"
-"ESZ5","6878","Sell","#ffffff","#FF0000","left","2","true"
+"Symbol","Price Level","Note","Foreground Color","Background Color","Text Alignment","DIAMETER","DRAW_NOTE_PRICE_HORIZONTAL_LINE",""
+"ESZ5","6876","Sell","#ffffff","#FF0000","left","2","true",""
+"ESZ5","6878","Sell","#ffffff","#FF0000","left","2","true","d"
